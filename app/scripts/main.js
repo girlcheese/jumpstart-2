@@ -1,2 +1,3 @@
-/* jshint devel:true */
-console.log('\'Allo \'Allo!');
+let MyMessage = console.log('\'Allo \'Allo!');
+
+
