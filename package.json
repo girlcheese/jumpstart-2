@@ -51,6 +51,6 @@
   },
   "dependencies": {
     "bourbon": "^4.2.7",
-    "bourbon-neat": "^1.7.4"
+    "bourbon-neat": "^2.0.0"
   }
 }
